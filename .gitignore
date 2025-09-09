@@ -71,3 +71,7 @@ Thumbs.db
 *.tmp
 *.sqlite3
 GITHUB_TOKEN.txt
+
+# Project folders to exclude from repo
+Touren/
+dev/
